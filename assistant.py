@@ -86,3 +86,4 @@ def run_assistant():
             speak("I cannot perform this command right now, please try again.")
 
 run_assistant()
+print("Git testing")
